@@ -1,4 +1,4 @@
-### Hi there, I'm Joseph Liangousuan Tonsing 👋
+## Hi there, I'm Joseph Liangousuan Tonsing 👋
 
 - 🔭 I’m currently working on ecommerce app
 - 🌱 I’m currently learning React-Native
@@ -7,7 +7,7 @@
 - 💬 Ask me about anything 😉
 - ⚡ Fun fact: I love making films and videos too ✌🏻
 
-## Connect with me:
+### Connect with me:
 
 
 <!--
