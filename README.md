@@ -20,6 +20,10 @@
 
 
 
+
+[instagram]: https://www.instagram.com/mojo_swant
+[facebook]: https://www.facebook.com/SuanZT
+[twitter]: https://twitter.com/keiMinGou
 <!--
 **JoeSwanTonsing/JoeSwanTonsing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
