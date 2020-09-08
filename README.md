@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love making films and videos too ✌🏻
 
 ### Connect with me:
-
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Facebook.svg" />
 
 <!--
 **JoeSwanTonsing/JoeSwanTonsing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+http://simpleicons.org - Icon Link - <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[ICON NAME].svg" />
 -->
