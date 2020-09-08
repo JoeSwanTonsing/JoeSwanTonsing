@@ -7,6 +7,8 @@
 - 💬 Ask me about anything 😉
 - ⚡ Fun fact: I love making films and videos too ✌🏻
 
+## Connect with me:
+
 
 <!--
 **JoeSwanTonsing/JoeSwanTonsing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
