@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on ecommerce app
 - 🌱 I’m currently learning React-Native
+- 🥅 2020 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate on with anyone
 - 🤔 I’m looking for help with App Development in React-Native
 - 💬 Ask me about anything 😉
