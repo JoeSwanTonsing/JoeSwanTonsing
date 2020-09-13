@@ -1,10 +1,10 @@
 ## Hi there, I'm Joseph Liangousuan Tonsing 👋
 
-- 🔭 I’m currently working on ecommerce app
-- 🌱 I’m currently learning React-Native
-- 🥅 Contribute more
-- 👯 I’m looking to collaborate on with anyone
-- 🤔 I’m looking for help with App Development in React-Native
+- 🔭 I’m currently working on ecommerce app 💻 📱
+- 🌱 I’m currently learning React-Native 📚
+- 🥅 Goal: Contribute more 🧩
+- 👯 I’m looking to collaborate on with anyone 🎭
+- 🤔 I’m looking for help with App Development in React-Native ⁉️
 - 💬 Ask me about anything 😉
 - ⚡ Fun fact: I love making films and videos too ✌🏻
 
